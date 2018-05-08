@@ -1,0 +1,99 @@
+.paddingFix {
+    padding: 20px;
+}
+
+.marginFix {
+    margin-top: 20px;
+}
+
+.formContainer {
+    background-color: #ffe;
+    border: 1px solid #ddb580fb;
+    border-radius: 2px;
+    padding: 20px;
+    font-size: 16px;
+}
+
+.summaryContainer {
+    background-color: #dbe8ff;
+    border: 1px solid #a0acbf;
+    border-radius: 2px;
+    padding: 20px;
+    font-size: 16px;
+}
+
+.datePickerContainer select{
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    margin: 5px;
+    height: 29px;
+}
+
+.userAttributes {
+    font-weight: bold;
+    color: #ea925b;
+}
+
+.formTextInput {
+    border: 1px solid #c7cdd4;
+    display: block;
+    border-radius: 2px;
+    padding: 8px 32px 12px 8px;
+    height: 40px;
+}
+
+.membershipType {
+    color: rgb(128, 36, 0);
+    text-decoration: underline;
+}
+
+.fieldGroup {
+    padding-top: 15px;
+}
+
+.fieldErrors {
+    background-color: #f8ebec;
+    box-shadow: 0 2px 4px 0 #53606b;
+    border: 1px solid #a2000f;
+}
+
+.inputError {
+    color: red;
+    font-weight: bold;
+}
+
+.formCheckbox {
+    display: block;
+    margin-top: 20px;
+}
+
+.btnProps {
+    padding: 10px;
+    border-radius: 2px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #c00;
+    width: 30%;
+}
+
+.userSummaryLabel {
+    text-align: center;
+    color: #5a67dd;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.footer {
+	margin-top: 20px;
+	padding-left: 20px;
+
+	a {
+		padding: 5px 10px 5px 0;
+	}
+}
