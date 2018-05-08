@@ -28,9 +28,9 @@ The Wizard:
 
 ## Run the app
 
-0. ```npm install```
+1. ```npm install```
     Note: This app uses `json-server` as a local server. See documentation for json-server [here](https://github.com/typicode/json-server).
     To run this app, first start local server running on (localhost:3000)
             To run json server, run
             ```npm run json:server```
-1. ```npm start``` <== this will start application running on port 4000
+2. ```npm start``` <== this will start application running on port 4000
